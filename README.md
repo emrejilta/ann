@@ -1,5 +1,5 @@
 # Artificial Neural Networks
-Neural network library written in C programming language
+Neural network library written in C and Python programming languages
 
 ## Distribution Functions
   * Multiplication
